@@ -1,2 +1,36 @@
-# Marvel Graphs
-An application that scrapes the Marvel Wiki for a given article, and generates custom graphs by visualizing links and dependencies between different entities. 
+# cerebra
+
+FIXME: description
+
+## Installation
+
+Download from http://example.com/FIXME.
+
+## Usage
+
+FIXME: explanation
+
+    $ java -jar cerebra-0.1.0-standalone.jar [args]
+
+## Options
+
+FIXME: listing of options this app accepts.
+
+## Examples
+
+...
+
+### Bugs
+
+...
+
+### Any Other Sections
+### That You Think
+### Might be Useful
+
+## License
+
+Copyright © 2015 FIXME
+
+Distributed under the Eclipse Public License either version 1.0 or (at
+your option) any later version.
