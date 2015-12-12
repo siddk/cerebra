@@ -30,7 +30,7 @@ FIXME: listing of options this app accepts.
 
 ## License
 
-Copyright © 2015 Sidd Karamcheti, Calvin Huang
+Copyright © 2015 Sidd Karamcheti
 
 Distributed under the MIT License either version 1.0 or (at
 your option) any later version.
